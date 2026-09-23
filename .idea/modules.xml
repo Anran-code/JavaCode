@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-HelloWorld/01-HelloWorld.iml" filepath="$PROJECT_DIR$/01-HelloWorld/01-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-basic/02-basic.iml" filepath="$PROJECT_DIR$/02-basic/02-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-flow-control/03-flow-control.iml" filepath="$PROJECT_DIR$/03-flow-control/03-flow-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-array/04-array.iml" filepath="$PROJECT_DIR$/04-array/04-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-oop/05-oop.iml" filepath="$PROJECT_DIR$/05-oop/05-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCode.iml" filepath="$PROJECT_DIR$/.idea/JavaCode.iml" />
+    </modules>
+  </component>
+</project>
