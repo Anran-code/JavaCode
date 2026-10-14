@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/03-flow-control/03-flow-control.iml" filepath="$PROJECT_DIR$/03-flow-control/03-flow-control.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-array/04-array.iml" filepath="$PROJECT_DIR$/04-array/04-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-oop/05-oop.iml" filepath="$PROJECT_DIR$/05-oop/05-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-advanced-oop/06-advanced-oop.iml" filepath="$PROJECT_DIR$/06-advanced-oop/06-advanced-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-more-advanced-oop/07-more-advanced-oop.iml" filepath="$PROJECT_DIR$/07-more-advanced-oop/07-more-advanced-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-interface/08-interface.iml" filepath="$PROJECT_DIR$/08-interface/08-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCode.iml" filepath="$PROJECT_DIR$/.idea/JavaCode.iml" />
     </modules>
   </component>

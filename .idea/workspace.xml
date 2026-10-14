@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="" />
+    <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/06-advanced-oop/06-advanced-oop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/01基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/01基础.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +19,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaLerningCode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/03-flow-control/src/com/ranan/branch/IfBranch.java" root0="SKIP_INSPECTION" />
@@ -33,61 +41,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000000000005" />
-      <entry key="S2" value="1.0004043303118304" />
-      <entry key="S5" value="1.0668466211564118" />
-      <entry key="S10" value="1.3943355423107318" />
-      <entry key="S30" value="2.573076327756736" />
-      <entry key="S60" value="4.0692105399091405" />
-      <entry key="M2" value="7.41906546016449" />
-      <entry key="M5" value="15.923126568370881" />
-      <entry key="M10" value="26.646772718359312" />
-      <entry key="M15" value="36.38860233031115" />
-      <entry key="M30" value="65.26909323357178" />
-      <entry key="H1" value="109.88239013030572" />
-      <entry key="H2" value="165.1383299660674" />
-      <entry key="H4" value="286.3815553260688" />
-      <entry key="D1" value="967.7812257353326" />
-      <entry key="W1" value="1299.7338624572008" />
+      <entry key="MS100" value="1.000000000261948" />
+      <entry key="MS500" value="1.0121261944443654" />
+      <entry key="S2" value="1.377542468164015" />
+      <entry key="S5" value="2.2132025571284117" />
+      <entry key="S10" value="3.587142845794243" />
+      <entry key="S30" value="7.130360274697756" />
+      <entry key="S60" value="10.18601801562174" />
+      <entry key="M2" value="15.984186876745852" />
+      <entry key="M5" value="31.96760259060979" />
+      <entry key="M10" value="49.54617318110601" />
+      <entry key="M15" value="63.403507629292115" />
+      <entry key="M30" value="101.46468346823377" />
+      <entry key="H1" value="165.45311042164175" />
+      <entry key="H2" value="264.50739154993875" />
+      <entry key="H4" value="424.9728397977524" />
+      <entry key="D1" value="1383.9090390958222" />
+      <entry key="W1" value="2116.739292845028" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.6581404135158712E-68" />
-      <entry key="MS500" value="3.257200390651856E-14" />
-      <entry key="S2" value="4.864093095049874E-4" />
-      <entry key="S5" value="0.06551539426846383" />
-      <entry key="S10" value="0.36425865222713527" />
-      <entry key="S30" value="1.8840914114757792" />
-      <entry key="S60" value="4.166888040783661" />
-      <entry key="M2" value="7.182543377520586" />
-      <entry key="M5" value="11.301898636666039" />
-      <entry key="M10" value="14.69118744570709" />
-      <entry key="M15" value="17.60980191501302" />
-      <entry key="M30" value="27.503148535930013" />
-      <entry key="H1" value="44.3990144483598" />
-      <entry key="H2" value="65.13721001453438" />
-      <entry key="H4" value="102.29914640414727" />
-      <entry key="D1" value="288.75699685000455" />
-      <entry key="W1" value="378.53264281606295" />
+      <entry key="MS100" value="4.8119905285582045E-19" />
+      <entry key="MS500" value="2.1700260770668212E-4" />
+      <entry key="S2" value="0.12137265657118765" />
+      <entry key="S5" value="0.43619025089513025" />
+      <entry key="S10" value="0.7751722911482027" />
+      <entry key="S30" value="2.0113634100678293" />
+      <entry key="S60" value="3.3492668246470827" />
+      <entry key="M2" value="5.597533021335097" />
+      <entry key="M5" value="10.789844442910773" />
+      <entry key="M10" value="15.96764154976556" />
+      <entry key="M15" value="20.384787288420046" />
+      <entry key="M30" value="34.2137960241822" />
+      <entry key="H1" value="59.02986407157516" />
+      <entry key="H2" value="98.27259579281639" />
+      <entry key="H4" value="163.80884876121914" />
+      <entry key="D1" value="507.4069174921655" />
+      <entry key="W1" value="741.4119003328227" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0014297711874468992" />
-      <entry key="MS500" value="0.26980705912612657" />
-      <entry key="S2" value="0.7214641217864973" />
-      <entry key="S5" value="0.9984693159435765" />
-      <entry key="S10" value="1.6595038467054177" />
-      <entry key="S30" value="4.362728149812616" />
-      <entry key="S60" value="8.124444437876612" />
-      <entry key="M2" value="14.485926592031515" />
-      <entry key="M5" value="27.13509838251634" />
-      <entry key="M10" value="41.2727585849239" />
-      <entry key="M15" value="53.94434628548684" />
-      <entry key="M30" value="92.72989088016966" />
-      <entry key="H1" value="154.24817840050963" />
-      <entry key="H2" value="230.25143230792895" />
-      <entry key="H4" value="388.6604327286194" />
-      <entry key="D1" value="1256.526923391413" />
-      <entry key="W1" value="1678.2643325246117" />
+      <entry key="MS100" value="9.536743167694842E-7" />
+      <entry key="MS500" value="0.06342351386093276" />
+      <entry key="S2" value="0.8148895868749612" />
+      <entry key="S5" value="2.216487236746403" />
+      <entry key="S10" value="4.080700887189054" />
+      <entry key="S30" value="8.985664929970595" />
+      <entry key="S60" value="13.423154964181427" />
+      <entry key="M2" value="21.492306688234372" />
+      <entry key="M5" value="42.68856028588316" />
+      <entry key="M10" value="65.46144614872641" />
+      <entry key="M15" value="83.74214687859806" />
+      <entry key="M30" value="135.63718249844686" />
+      <entry key="H1" value="224.4459731243098" />
+      <entry key="H2" value="362.74852276934337" />
+      <entry key="H4" value="588.7550389911801" />
+      <entry key="D1" value="1891.3001752408088" />
+      <entry key="W1" value="2858.1476951410486" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -105,6 +113,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3JXm3L2sduNAbUcFzIIryvkqqMN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -116,13 +127,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JavaCode",
+    "last_opened_file_path": "D:/JavaCode/06-advanced-oop/src/com/ranan/polomorphsm2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -130,13 +142,15 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "问题",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "to.speed.mode.migration.done": "true",
     "应用程序.Array.executor": "Run",
     "应用程序.Array2D.executor": "Run",
     "应用程序.DoWhile.executor": "Run",
+    "应用程序.Father.executor": "Run",
+    "应用程序.FinalDemo2.executor": "Run",
     "应用程序.For.executor": "Run",
     "应用程序.GuessNumber.executor": "Run",
     "应用程序.HuaRongRoadDemo.executor": "Run",
@@ -152,42 +166,37 @@
     "应用程序.Test2.executor": "Run",
     "应用程序.VerificationCode.executor": "Run",
     "应用程序.While.executor": "Run",
+    "应用程序.com.ranan.abstactdemo.Test.executor": "Run",
+    "应用程序.com.ranan.abstractdemo2.Test.executor": "Run",
+    "应用程序.com.ranan.brother_constructor.Test.executor": "Run",
+    "应用程序.com.ranan.constructor.Test.executor": "Run",
+    "应用程序.com.ranan.constructor.Test2.executor": "Run",
+    "应用程序.com.ranan.enumdemo.Test.executor": "Run",
+    "应用程序.com.ranan.extends4.Test.executor": "Run",
+    "应用程序.com.ranan.extendsdemo.Test.executor": "Run",
+    "应用程序.com.ranan.interface1.Test.executor": "Run",
+    "应用程序.com.ranan.interface4.Test.executor": "Run",
+    "应用程序.com.ranan.interface5.Test.executor": "Run",
+    "应用程序.com.ranan.polomorphsm2.Test.executor": "Run",
+    "应用程序.com.ranan.polymorphsm.Test.executor": "Run",
     "应用程序.com.ranan.staticfield.Test.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.Practice">
-    <configuration name="HuaRongRoadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.array.HuaRongRoadDemo" />
-      <module name="04-array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ranan.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.practice.Practice" />
-      <module name="05-oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ranan.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaCode\06-advanced-oop\src\com\ranan\polomorphsm2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ranan.constructor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.com.ranan.interface5.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.encapsulation.Test" />
-      <module name="05-oop" />
+      <option name="MAIN_CLASS_NAME" value="com.ranan.interface3.Test" />
+      <module name="08-interface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.encapsulation.*" />
+          <option name="PATTERN" value="com.ranan.interface3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.obj.Test2" />
-      <module name="05-oop" />
+    <configuration name="com.ranan.abstractdemo2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.abstractdemo2.Test" />
+      <module name="07-more-advanced-oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.obj.*" />
+          <option name="PATTERN" value="com.ranan.abstractdemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +217,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.staticfield.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.staticfield.Test" />
-      <module name="05-oop" />
+    <configuration name="com.ranan.interface1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.interface1.Test" />
+      <module name="08-interface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.staticfield.*" />
+          <option name="PATTERN" value="com.ranan.interface1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ranan.interface4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.interface4.Test" />
+      <module name="08-interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ranan.interface4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ranan.interface5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.interface5.Test" />
+      <module name="08-interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ranan.interface5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Practice" />
-        <item itemvalue="应用程序.com.ranan.staticfield.Test" />
+        <item itemvalue="应用程序.com.ranan.interface5.Test" />
+        <item itemvalue="应用程序.com.ranan.interface4.Test" />
         <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.HuaRongRoadDemo" />
+        <item itemvalue="应用程序.com.ranan.interface1.Test" />
+        <item itemvalue="应用程序.com.ranan.abstractdemo2.Test" />
       </list>
     </recent_temporary>
   </component>
