@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/11-string-and-arraylist/11-string-and-arraylist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/05接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/05接口.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01-HelloWorld/com/ranan/helloworld/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/basic/Basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/basic/MethodOverload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/practice/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/scanner/MyScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/type/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/branch/IfBranch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/branch/SwitchBranch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/NestedLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/GuessNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/PrimeNumberPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/SimpleCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/VerificationCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/15-file-io/com/ranan/filedemo1/FileDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15-file-io/com/ranan/filedemo1/FileDemo2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,61 +38,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0007556469695031" />
-      <entry key="MS500" value="1.2375529825898257" />
-      <entry key="S2" value="1.8022601124433701" />
-      <entry key="S5" value="2.5044734986315893" />
-      <entry key="S10" value="3.471062752016969" />
-      <entry key="S30" value="6.5360023529625835" />
-      <entry key="S60" value="9.612698723752226" />
-      <entry key="M2" value="13.433941724132314" />
-      <entry key="M5" value="23.29448231603996" />
-      <entry key="M10" value="38.0051018160601" />
-      <entry key="M15" value="48.52440377223056" />
-      <entry key="M30" value="68.69254807008474" />
-      <entry key="H1" value="100.82155805740989" />
-      <entry key="H2" value="173.1114666132826" />
-      <entry key="H4" value="318.9209889615085" />
-      <entry key="D1" value="1560.2586709310551" />
-      <entry key="W1" value="4049.837912249477" />
+      <entry key="MS100" value="1.4521319647696946E-59" />
+      <entry key="MS500" value="2.991916268206124E-12" />
+      <entry key="S2" value="0.0025920155283120057" />
+      <entry key="S5" value="0.17431795706307404" />
+      <entry key="S10" value="0.7198623071491632" />
+      <entry key="S30" value="1.8622463063330352" />
+      <entry key="S60" value="2.371883389410916" />
+      <entry key="M2" value="3.044913122077534" />
+      <entry key="M5" value="7.890813147306005" />
+      <entry key="M10" value="16.833662590244042" />
+      <entry key="M15" value="24.29044697989875" />
+      <entry key="M30" value="45.45961904056757" />
+      <entry key="H1" value="85.46635515278375" />
+      <entry key="H2" value="162.63754175146423" />
+      <entry key="H4" value="311.8553717424815" />
+      <entry key="D1" value="1565.4333851732515" />
+      <entry key="W1" value="4094.4094177168536" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.268511974877042E-12" />
-      <entry key="MS500" value="0.004176056924788847" />
-      <entry key="S2" value="0.2863307880496078" />
-      <entry key="S5" value="0.9272139298835459" />
-      <entry key="S10" value="2.086203685820906" />
-      <entry key="S30" value="5.989273104965527" />
-      <entry key="S60" value="9.281885044487964" />
-      <entry key="M2" value="12.657664455602983" />
-      <entry key="M5" value="19.336751722292494" />
-      <entry key="M10" value="29.45587417143733" />
-      <entry key="M15" value="37.55973211036278" />
-      <entry key="M30" value="55.30575953846294" />
-      <entry key="H1" value="84.8192632599408" />
-      <entry key="H2" value="147.67890782384617" />
-      <entry key="H4" value="265.036645597893" />
-      <entry key="D1" value="1020.4033754802904" />
-      <entry key="W1" value="2146.318200902249" />
+      <entry key="MS100" value="1.0000000007207857" />
+      <entry key="MS500" value="1.024474231081751" />
+      <entry key="S2" value="1.868496270600402" />
+      <entry key="S5" value="3.0612293496214398" />
+      <entry key="S10" value="4.159298776617174" />
+      <entry key="S30" value="5.690799955427381" />
+      <entry key="S60" value="6.300248090809362" />
+      <entry key="M2" value="7.290074120972905" />
+      <entry key="M5" value="13.818789833906122" />
+      <entry key="M10" value="23.54004772295766" />
+      <entry key="M15" value="30.404810417648434" />
+      <entry key="M30" value="47.837062656355236" />
+      <entry key="H1" value="80.96965016317338" />
+      <entry key="H2" value="146.25781420728876" />
+      <entry key="H4" value="267.3505757766289" />
+      <entry key="D1" value="1043.2356503284825" />
+      <entry key="W1" value="2197.8691465184506" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8711352696953313" />
-      <entry key="MS500" value="1.2017222858755023" />
-      <entry key="S2" value="2.022581077627463" />
-      <entry key="S5" value="3.2805894586125133" />
-      <entry key="S10" value="5.363349636982737" />
-      <entry key="S30" value="12.32376489245213" />
-      <entry key="S60" value="18.727203998050353" />
-      <entry key="M2" value="25.96886391296476" />
-      <entry key="M5" value="42.54410423114982" />
-      <entry key="M10" value="67.38781753046075" />
-      <entry key="M15" value="86.02009668913887" />
-      <entry key="M30" value="123.94983487059118" />
-      <entry key="H1" value="185.60266765618567" />
-      <entry key="H2" value="320.7563371881281" />
-      <entry key="H4" value="583.92639063042" />
-      <entry key="D1" value="2580.6397771399565" />
-      <entry key="W1" value="6196.1484885128475" />
+      <entry key="MS100" value="8.874348199339737E-5" />
+      <entry key="MS500" value="0.16756715523228446" />
+      <entry key="S2" value="1.3471133981394912" />
+      <entry key="S5" value="2.89265524992401" />
+      <entry key="S10" value="4.634638712026025" />
+      <entry key="S30" value="7.432396749747396" />
+      <entry key="S60" value="8.603457752155316" />
+      <entry key="M2" value="10.292540614311402" />
+      <entry key="M5" value="21.665602138433197" />
+      <entry key="M10" value="40.32852895655841" />
+      <entry key="M15" value="54.65342727372847" />
+      <entry key="M30" value="93.26058392005778" />
+      <entry key="H1" value="166.40322706722463" />
+      <entry key="H2" value="308.86391943855415" />
+      <entry key="H4" value="579.1757888807981" />
+      <entry key="D1" value="2608.646644769543" />
+      <entry key="W1" value="6292.270838650017" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -173,6 +155,7 @@
     "应用程序.ArrayListDemo.executor": "Run",
     "应用程序.BorderLayoutExample.executor": "Run",
     "应用程序.BoxLayoutExample.executor": "Run",
+    "应用程序.CharSetDemo1.executor": "Run",
     "应用程序.CodeDemo1.executor": "Run",
     "应用程序.CodeDemo2.executor": "Run",
     "应用程序.CollectionDemo1.executor": "Run",
@@ -220,6 +203,7 @@
     "应用程序.Poker.executor": "Run",
     "应用程序.Practice.executor": "Run",
     "应用程序.PrimeNumberPrint.executor": "Run",
+    "应用程序.RecursionDemo1.executor": "Run",
     "应用程序.SetDemo1.executor": "Run",
     "应用程序.SetDemo2.executor": "Run",
     "应用程序.SetDemo3.executor": "Run",
@@ -265,13 +249,13 @@
       <recent name="com.ranan.constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.FileDemo2">
-    <configuration name="CollectionsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.testdemo.CollectionsDemo2" />
-      <module name="14-map-stream" />
+  <component name="RunManager" selected="应用程序.CharSetDemo1">
+    <configuration name="CharSetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.charset.CharSetDemo1" />
+      <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.testdemo.*" />
+          <option name="PATTERN" value="com.ranan.charset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.test.Game" />
-      <module name="14-map-stream" />
+    <configuration name="FileSearchDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.recursion.FileSearchDemo1" />
+      <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.test.*" />
+          <option name="PATTERN" value="com.ranan.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.testdemo.ParamDemo1" />
-      <module name="14-map-stream" />
+    <configuration name="RecursionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.recursion.RecursionDemo1" />
+      <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.testdemo.*" />
+          <option name="PATTERN" value="com.ranan.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.CharSetDemo1" />
+        <item itemvalue="应用程序.FileSearchDemo1" />
+        <item itemvalue="应用程序.RecursionDemo1" />
         <item itemvalue="应用程序.FileDemo2" />
         <item itemvalue="应用程序.FileDemo1" />
-        <item itemvalue="应用程序.Game" />
-        <item itemvalue="应用程序.CollectionsDemo2" />
-        <item itemvalue="应用程序.ParamDemo1" />
       </list>
     </recent_temporary>
   </component>
