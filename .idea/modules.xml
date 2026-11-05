@@ -10,7 +10,16 @@
       <module fileurl="file://$PROJECT_DIR$/06-advanced-oop/06-advanced-oop.iml" filepath="$PROJECT_DIR$/06-advanced-oop/06-advanced-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-more-advanced-oop/07-more-advanced-oop.iml" filepath="$PROJECT_DIR$/07-more-advanced-oop/07-more-advanced-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-interface/08-interface.iml" filepath="$PROJECT_DIR$/08-interface/08-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-more-advanced-oop2/09-more-advanced-oop2.iml" filepath="$PROJECT_DIR$/09-more-advanced-oop2/09-more-advanced-oop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-lambda/10-lambda.iml" filepath="$PROJECT_DIR$/10-lambda/10-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-string-and-arraylist/11-string-and-arraylist.iml" filepath="$PROJECT_DIR$/11-string-and-arraylist/11-string-and-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-GUI/12-GUI.iml" filepath="$PROJECT_DIR$/12-GUI/12-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-collection/13-collection.iml" filepath="$PROJECT_DIR$/13-collection/13-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-map-stream/14-map-stream.iml" filepath="$PROJECT_DIR$/14-map-stream/14-map-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-file-io/15-file-io.iml" filepath="$PROJECT_DIR$/15-file-io/15-file-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCode.iml" filepath="$PROJECT_DIR$/.idea/JavaCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anran-employee-sys/anran-employee-sys.iml" filepath="$PROJECT_DIR$/anran-employee-sys/anran-employee-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anran-library-sys/anran-library-sys.iml" filepath="$PROJECT_DIR$/anran-library-sys/anran-library-sys.iml" />
     </modules>
   </component>
 </project>

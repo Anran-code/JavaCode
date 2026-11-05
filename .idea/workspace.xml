@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/06-advanced-oop/06-advanced-oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-string-and-arraylist/11-string-and-arraylist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/01基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/01基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/05接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/05接口.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01-HelloWorld/com/ranan/helloworld/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/basic/Basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/basic/MethodOverload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/practice/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/scanner/MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02-basic/com/ranan/type/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/branch/IfBranch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/branch/SwitchBranch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/NestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/loop/While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/GuessNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/PrimeNumberPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-flow-control/com/ranan/practice/VerificationCode.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,61 +56,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000261948" />
-      <entry key="MS500" value="1.0121261944443654" />
-      <entry key="S2" value="1.377542468164015" />
-      <entry key="S5" value="2.2132025571284117" />
-      <entry key="S10" value="3.587142845794243" />
-      <entry key="S30" value="7.130360274697756" />
-      <entry key="S60" value="10.18601801562174" />
-      <entry key="M2" value="15.984186876745852" />
-      <entry key="M5" value="31.96760259060979" />
-      <entry key="M10" value="49.54617318110601" />
-      <entry key="M15" value="63.403507629292115" />
-      <entry key="M30" value="101.46468346823377" />
-      <entry key="H1" value="165.45311042164175" />
-      <entry key="H2" value="264.50739154993875" />
-      <entry key="H4" value="424.9728397977524" />
-      <entry key="D1" value="1383.9090390958222" />
-      <entry key="W1" value="2116.739292845028" />
+      <entry key="MS100" value="1.0007556469695031" />
+      <entry key="MS500" value="1.2375529825898257" />
+      <entry key="S2" value="1.8022601124433701" />
+      <entry key="S5" value="2.5044734986315893" />
+      <entry key="S10" value="3.471062752016969" />
+      <entry key="S30" value="6.5360023529625835" />
+      <entry key="S60" value="9.612698723752226" />
+      <entry key="M2" value="13.433941724132314" />
+      <entry key="M5" value="23.29448231603996" />
+      <entry key="M10" value="38.0051018160601" />
+      <entry key="M15" value="48.52440377223056" />
+      <entry key="M30" value="68.69254807008474" />
+      <entry key="H1" value="100.82155805740989" />
+      <entry key="H2" value="173.1114666132826" />
+      <entry key="H4" value="318.9209889615085" />
+      <entry key="D1" value="1560.2586709310551" />
+      <entry key="W1" value="4049.837912249477" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.8119905285582045E-19" />
-      <entry key="MS500" value="2.1700260770668212E-4" />
-      <entry key="S2" value="0.12137265657118765" />
-      <entry key="S5" value="0.43619025089513025" />
-      <entry key="S10" value="0.7751722911482027" />
-      <entry key="S30" value="2.0113634100678293" />
-      <entry key="S60" value="3.3492668246470827" />
-      <entry key="M2" value="5.597533021335097" />
-      <entry key="M5" value="10.789844442910773" />
-      <entry key="M10" value="15.96764154976556" />
-      <entry key="M15" value="20.384787288420046" />
-      <entry key="M30" value="34.2137960241822" />
-      <entry key="H1" value="59.02986407157516" />
-      <entry key="H2" value="98.27259579281639" />
-      <entry key="H4" value="163.80884876121914" />
-      <entry key="D1" value="507.4069174921655" />
-      <entry key="W1" value="741.4119003328227" />
+      <entry key="MS100" value="1.268511974877042E-12" />
+      <entry key="MS500" value="0.004176056924788847" />
+      <entry key="S2" value="0.2863307880496078" />
+      <entry key="S5" value="0.9272139298835459" />
+      <entry key="S10" value="2.086203685820906" />
+      <entry key="S30" value="5.989273104965527" />
+      <entry key="S60" value="9.281885044487964" />
+      <entry key="M2" value="12.657664455602983" />
+      <entry key="M5" value="19.336751722292494" />
+      <entry key="M10" value="29.45587417143733" />
+      <entry key="M15" value="37.55973211036278" />
+      <entry key="M30" value="55.30575953846294" />
+      <entry key="H1" value="84.8192632599408" />
+      <entry key="H2" value="147.67890782384617" />
+      <entry key="H4" value="265.036645597893" />
+      <entry key="D1" value="1020.4033754802904" />
+      <entry key="W1" value="2146.318200902249" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="9.536743167694842E-7" />
-      <entry key="MS500" value="0.06342351386093276" />
-      <entry key="S2" value="0.8148895868749612" />
-      <entry key="S5" value="2.216487236746403" />
-      <entry key="S10" value="4.080700887189054" />
-      <entry key="S30" value="8.985664929970595" />
-      <entry key="S60" value="13.423154964181427" />
-      <entry key="M2" value="21.492306688234372" />
-      <entry key="M5" value="42.68856028588316" />
-      <entry key="M10" value="65.46144614872641" />
-      <entry key="M15" value="83.74214687859806" />
-      <entry key="M30" value="135.63718249844686" />
-      <entry key="H1" value="224.4459731243098" />
-      <entry key="H2" value="362.74852276934337" />
-      <entry key="H4" value="588.7550389911801" />
-      <entry key="D1" value="1891.3001752408088" />
-      <entry key="W1" value="2858.1476951410486" />
+      <entry key="MS100" value="0.8711352696953313" />
+      <entry key="MS500" value="1.2017222858755023" />
+      <entry key="S2" value="2.022581077627463" />
+      <entry key="S5" value="3.2805894586125133" />
+      <entry key="S10" value="5.363349636982737" />
+      <entry key="S30" value="12.32376489245213" />
+      <entry key="S60" value="18.727203998050353" />
+      <entry key="M2" value="25.96886391296476" />
+      <entry key="M5" value="42.54410423114982" />
+      <entry key="M10" value="67.38781753046075" />
+      <entry key="M15" value="86.02009668913887" />
+      <entry key="M30" value="123.94983487059118" />
+      <entry key="H1" value="185.60266765618567" />
+      <entry key="H2" value="320.7563371881281" />
+      <entry key="H4" value="583.92639063042" />
+      <entry key="D1" value="2580.6397771399565" />
+      <entry key="W1" value="6196.1484885128475" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -122,7 +137,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -145,25 +164,76 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "to.speed.mode.migration.done": "true",
+    "应用程序.App (1).executor": "Run",
+    "应用程序.App.executor": "Run",
     "应用程序.Array.executor": "Run",
     "应用程序.Array2D.executor": "Run",
+    "应用程序.ArrayListDemo.executor": "Run",
+    "应用程序.BorderLayoutExample.executor": "Run",
+    "应用程序.BoxLayoutExample.executor": "Run",
+    "应用程序.CodeDemo1.executor": "Run",
+    "应用程序.CodeDemo2.executor": "Run",
+    "应用程序.CollectionDemo1.executor": "Run",
+    "应用程序.CollectionDemo2.executor": "Run",
+    "应用程序.CollectionTravelDemo3.executor": "Run",
+    "应用程序.CollectionTravelDemo4.executor": "Run",
+    "应用程序.CollectionsDemo2.executor": "Run",
+    "应用程序.Demo1.executor": "Run",
+    "应用程序.Demo2.executor": "Run",
+    "应用程序.Demo3.executor": "Run",
     "应用程序.DoWhile.executor": "Run",
+    "应用程序.EmployeeSystemFrame.executor": "Run",
+    "应用程序.ExceptionDemo1.executor": "Run",
+    "应用程序.ExceptionDemo2.executor": "Run",
+    "应用程序.ExceptionDemo3.executor": "Run",
+    "应用程序.ExceptionDemo4.executor": "Run",
+    "应用程序.ExceptionDemo5.executor": "Run",
     "应用程序.Father.executor": "Run",
+    "应用程序.FileDemo1.executor": "Run",
+    "应用程序.FileDemo2.executor": "Run",
     "应用程序.FinalDemo2.executor": "Run",
+    "应用程序.FlowLayoutExample.executor": "Run",
     "应用程序.For.executor": "Run",
+    "应用程序.Game.executor": "Run",
+    "应用程序.GenericDemo1.executor": "Run",
+    "应用程序.GenericDemo2.executor": "Run",
+    "应用程序.GenericDemo6.executor": "Run",
+    "应用程序.GridLayoutExample.executor": "Run",
     "应用程序.GuessNumber.executor": "Run",
     "应用程序.HuaRongRoadDemo.executor": "Run",
     "应用程序.IfBranch.executor": "Run",
+    "应用程序.InnerClassDemo1.executor": "Run",
+    "应用程序.JFrameDemo1.executor": "Run",
+    "应用程序.LambdaDemo1.executor": "Run",
+    "应用程序.LinkListDemo1.executor": "Run",
+    "应用程序.LinkListDemo2.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.MapDemo1.executor": "Run",
+    "应用程序.MapDemo2.executor": "Run",
+    "应用程序.MapDemo4.executor": "Run",
+    "应用程序.MapTraverseDemo3.executor": "Run",
     "应用程序.MyScanner.executor": "Run",
     "应用程序.NestedLoop.executor": "Debug",
+    "应用程序.ParamDemo1.executor": "Run",
     "应用程序.Poker.executor": "Run",
     "应用程序.Practice.executor": "Run",
     "应用程序.PrimeNumberPrint.executor": "Run",
+    "应用程序.SetDemo1.executor": "Run",
+    "应用程序.SetDemo2.executor": "Run",
+    "应用程序.SetDemo3.executor": "Run",
     "应用程序.SimpleCalculator.executor": "Run",
+    "应用程序.StreamDemo1.executor": "Run",
+    "应用程序.StreamDemo2.executor": "Run",
+    "应用程序.StreamDemo3.executor": "Run",
+    "应用程序.StreamDemo4.executor": "Run",
+    "应用程序.StringDemo1.executor": "Run",
     "应用程序.SwitchBranch.executor": "Run",
     "应用程序.Test.executor": "Run",
     "应用程序.Test2.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.Test4.executor": "Run",
     "应用程序.VerificationCode.executor": "Run",
     "应用程序.While.executor": "Run",
     "应用程序.com.ranan.abstactdemo.Test.executor": "Run",
@@ -179,6 +249,7 @@
     "应用程序.com.ranan.interface5.Test.executor": "Run",
     "应用程序.com.ranan.polomorphsm2.Test.executor": "Run",
     "应用程序.com.ranan.polymorphsm.Test.executor": "Run",
+    "应用程序.com.ranan.practice.Test.executor": "Run",
     "应用程序.com.ranan.staticfield.Test.executor": "Run"
   }
 }]]></component>
@@ -187,16 +258,20 @@
       <recent name="D:\JavaCode\06-advanced-oop\src\com\ranan\polomorphsm2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ranan.stream" />
+      <recent name="com.ranan.map" />
+      <recent name="com.ranan.exception" />
+      <recent name="com.ranan.method1reference" />
       <recent name="com.ranan.constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.com.ranan.interface5.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.interface3.Test" />
-      <module name="08-interface" />
+  <component name="RunManager" selected="应用程序.FileDemo2">
+    <configuration name="CollectionsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.testdemo.CollectionsDemo2" />
+      <module name="14-map-stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.interface3.*" />
+          <option name="PATTERN" value="com.ranan.testdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.abstractdemo2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.abstractdemo2.Test" />
-      <module name="07-more-advanced-oop" />
+    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.filedemo1.FileDemo1" />
+      <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.abstractdemo2.*" />
+          <option name="PATTERN" value="com.ranan.filedemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.interface1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.interface1.Test" />
-      <module name="08-interface" />
+    <configuration name="FileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.filedemo1.FileDemo2" />
+      <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.interface1.*" />
+          <option name="PATTERN" value="com.ranan.filedemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.interface4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.interface4.Test" />
-      <module name="08-interface" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.test.Game" />
+      <module name="14-map-stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.interface4.*" />
+          <option name="PATTERN" value="com.ranan.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.interface5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.interface5.Test" />
-      <module name="08-interface" />
+    <configuration name="ParamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.testdemo.ParamDemo1" />
+      <module name="14-map-stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.interface5.*" />
+          <option name="PATTERN" value="com.ranan.testdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.com.ranan.interface5.Test" />
-        <item itemvalue="应用程序.com.ranan.interface4.Test" />
-        <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.com.ranan.interface1.Test" />
-        <item itemvalue="应用程序.com.ranan.abstractdemo2.Test" />
+        <item itemvalue="应用程序.FileDemo2" />
+        <item itemvalue="应用程序.FileDemo1" />
+        <item itemvalue="应用程序.Game" />
+        <item itemvalue="应用程序.CollectionsDemo2" />
+        <item itemvalue="应用程序.ParamDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +374,15 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.awt.AWTError" package="java.awt" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
