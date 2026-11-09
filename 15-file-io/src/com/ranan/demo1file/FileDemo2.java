@@ -1,4 +1,4 @@
-package com.ranan.filedemo1;
+package com.ranan.demo1file;
 
 import java.io.File;
 import java.util.Arrays;

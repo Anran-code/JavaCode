@@ -1,4 +1,4 @@
-package com.ranan.recursion;
+package com.ranan.demo2recursion;
 
 public class RecursionDemo1 {
     public static void main(String[] args) {

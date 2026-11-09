@@ -1,4 +1,4 @@
-package com.ranan.charset;
+package com.ranan.demo3charset;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;

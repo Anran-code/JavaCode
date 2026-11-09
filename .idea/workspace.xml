@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/15-file-io/com/ranan/filedemo1/FileDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15-file-io/com/ranan/filedemo1/FileDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/charset/CharSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo3charset/CharSetDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/filedemo1/FileDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo1file/FileDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/filedemo1/FileDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo1file/FileDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/recursion/FileSearchDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo2recursion/FileSearchDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/recursion/RecursionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo2recursion/RecursionDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,61 +42,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4521319647696946E-59" />
-      <entry key="MS500" value="2.991916268206124E-12" />
-      <entry key="S2" value="0.0025920155283120057" />
-      <entry key="S5" value="0.17431795706307404" />
-      <entry key="S10" value="0.7198623071491632" />
-      <entry key="S30" value="1.8622463063330352" />
-      <entry key="S60" value="2.371883389410916" />
-      <entry key="M2" value="3.044913122077534" />
-      <entry key="M5" value="7.890813147306005" />
-      <entry key="M10" value="16.833662590244042" />
-      <entry key="M15" value="24.29044697989875" />
-      <entry key="M30" value="45.45961904056757" />
-      <entry key="H1" value="85.46635515278375" />
-      <entry key="H2" value="162.63754175146423" />
-      <entry key="H4" value="311.8553717424815" />
-      <entry key="D1" value="1565.4333851732515" />
-      <entry key="W1" value="4094.4094177168536" />
+      <entry key="MS100" value="6.511286437570757E-4" />
+      <entry key="MS500" value="0.4007046812913749" />
+      <entry key="S2" value="1.3379629899679548" />
+      <entry key="S5" value="1.7030573828293993" />
+      <entry key="S10" value="1.8688946532594746" />
+      <entry key="S30" value="2.8945407577891578" />
+      <entry key="S60" value="5.144091939570786" />
+      <entry key="M2" value="9.24953956193096" />
+      <entry key="M5" value="18.161732698487995" />
+      <entry key="M10" value="30.37277205454592" />
+      <entry key="M15" value="40.69290508676131" />
+      <entry key="M30" value="66.43131642468259" />
+      <entry key="H1" value="110.29414371134993" />
+      <entry key="H2" value="190.41922024414825" />
+      <entry key="H4" value="341.93358444926014" />
+      <entry key="D1" value="1602.9152119473022" />
+      <entry key="W1" value="4154.147085280448" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000007207857" />
-      <entry key="MS500" value="1.024474231081751" />
-      <entry key="S2" value="1.868496270600402" />
-      <entry key="S5" value="3.0612293496214398" />
-      <entry key="S10" value="4.159298776617174" />
-      <entry key="S30" value="5.690799955427381" />
-      <entry key="S60" value="6.300248090809362" />
-      <entry key="M2" value="7.290074120972905" />
-      <entry key="M5" value="13.818789833906122" />
-      <entry key="M10" value="23.54004772295766" />
-      <entry key="M15" value="30.404810417648434" />
-      <entry key="M30" value="47.837062656355236" />
-      <entry key="H1" value="80.96965016317338" />
-      <entry key="H2" value="146.25781420728876" />
-      <entry key="H4" value="267.3505757766289" />
-      <entry key="D1" value="1043.2356503284825" />
-      <entry key="W1" value="2197.8691465184506" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000000038988" />
+      <entry key="S5" value="1.0001066318261373" />
+      <entry key="S10" value="1.0183872018405447" />
+      <entry key="S30" value="1.8445352224423708" />
+      <entry key="S60" value="4.038471035116315" />
+      <entry key="M2" value="7.974476959239048" />
+      <entry key="M5" value="16.203546987268954" />
+      <entry key="M10" value="26.541526871309166" />
+      <entry key="M15" value="35.25007024291935" />
+      <entry key="M30" value="57.30916786807551" />
+      <entry key="H1" value="94.76866223245739" />
+      <entry key="H2" value="163.13274027896273" />
+      <entry key="H4" value="287.21214118635703" />
+      <entry key="D1" value="1075.5670478169554" />
+      <entry key="W1" value="2246.7392320036306" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="8.874348199339737E-5" />
-      <entry key="MS500" value="0.16756715523228446" />
-      <entry key="S2" value="1.3471133981394912" />
-      <entry key="S5" value="2.89265524992401" />
-      <entry key="S10" value="4.634638712026025" />
-      <entry key="S30" value="7.432396749747396" />
-      <entry key="S60" value="8.603457752155316" />
-      <entry key="M2" value="10.292540614311402" />
-      <entry key="M5" value="21.665602138433197" />
-      <entry key="M10" value="40.32852895655841" />
-      <entry key="M15" value="54.65342727372847" />
-      <entry key="M30" value="93.26058392005778" />
-      <entry key="H1" value="166.40322706722463" />
-      <entry key="H2" value="308.86391943855415" />
-      <entry key="H4" value="579.1757888807981" />
-      <entry key="D1" value="2608.646644769543" />
-      <entry key="W1" value="6292.270838650017" />
+      <entry key="MS100" value="0.0025773405609861707" />
+      <entry key="MS500" value="0.6497455690081394" />
+      <entry key="S2" value="2.034048325952389" />
+      <entry key="S5" value="2.5671299370753804" />
+      <entry key="S10" value="2.815468486720449" />
+      <entry key="S30" value="4.694032150246458" />
+      <entry key="S60" value="9.125079133432648" />
+      <entry key="M2" value="17.159079933952146" />
+      <entry key="M5" value="34.30799924142179" />
+      <entry key="M10" value="56.8649585069731" />
+      <entry key="M15" value="75.89790586476133" />
+      <entry key="M30" value="123.70147866645006" />
+      <entry key="H1" value="205.02798710090596" />
+      <entry key="H2" value="353.51940019425206" />
+      <entry key="H4" value="629.1149009281263" />
+      <entry key="D1" value="2678.4595925063527" />
+      <entry key="W1" value="6400.878504964086" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -176,6 +180,10 @@
     "应用程序.Father.executor": "Run",
     "应用程序.FileDemo1.executor": "Run",
     "应用程序.FileDemo2.executor": "Run",
+    "应用程序.FileOutputStreamDemo1.executor": "Run",
+    "应用程序.FileStreamDemo1.executor": "Run",
+    "应用程序.FileStreamDemo3.executor": "Run",
+    "应用程序.FileStringDemo2.executor": "Run",
     "应用程序.FinalDemo2.executor": "Run",
     "应用程序.FlowLayoutExample.executor": "Run",
     "应用程序.For.executor": "Run",
@@ -249,13 +257,13 @@
       <recent name="com.ranan.constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CharSetDemo1">
+  <component name="RunManager" selected="应用程序.FileOutputStreamDemo1">
     <configuration name="CharSetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.charset.CharSetDemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3charset.CharSetDemo1" />
       <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.charset.*" />
+          <option name="PATTERN" value="com.ranan.demo3charset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.filedemo1.FileDemo1" />
+    <configuration name="FileInputStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4fileinputstream.FileInputStreamDemo1" />
       <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.filedemo1.*" />
+          <option name="PATTERN" value="com.ranan.demo4fileinputstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.filedemo1.FileDemo2" />
+    <configuration name="FileInputStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4fileinputstream.FileInputStreamDemo2" />
       <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.filedemo1.*" />
+          <option name="PATTERN" value="com.ranan.demo4fileinputstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileSearchDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.recursion.FileSearchDemo1" />
+    <configuration name="FileInputStreamDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4fileinputstream.FileInputStreamDemo3" />
       <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.recursion.*" />
+          <option name="PATTERN" value="com.ranan.demo4fileinputstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.recursion.RecursionDemo1" />
+    <configuration name="FileOutputStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo5fileoutput.FileOutputStreamDemo1" />
       <module name="15-file-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.recursion.*" />
+          <option name="PATTERN" value="com.ranan.demo5fileoutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.FileOutputStreamDemo1" />
+        <item itemvalue="应用程序.FileInputStreamDemo3" />
+        <item itemvalue="应用程序.FileInputStreamDemo2" />
+        <item itemvalue="应用程序.FileInputStreamDemo1" />
         <item itemvalue="应用程序.CharSetDemo1" />
-        <item itemvalue="应用程序.FileSearchDemo1" />
-        <item itemvalue="应用程序.RecursionDemo1" />
-        <item itemvalue="应用程序.FileDemo2" />
-        <item itemvalue="应用程序.FileDemo1" />
       </list>
     </recent_temporary>
   </component>
