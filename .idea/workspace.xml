@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/charset/CharSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo3charset/CharSetDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/filedemo1/FileDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo1file/FileDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/filedemo1/FileDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo1file/FileDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/recursion/FileSearchDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo2recursion/FileSearchDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-file-io/src/com/ranan/recursion/RecursionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/com/ranan/demo2recursion/RecursionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-file-io/15-file-io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/15-file-io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-file-io/src/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/15文件与IO流.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/15文件与IO流.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/15-file-io/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15-file-io/test1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,61 +42,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="6.511286437570757E-4" />
-      <entry key="MS500" value="0.4007046812913749" />
-      <entry key="S2" value="1.3379629899679548" />
-      <entry key="S5" value="1.7030573828293993" />
-      <entry key="S10" value="1.8688946532594746" />
-      <entry key="S30" value="2.8945407577891578" />
-      <entry key="S60" value="5.144091939570786" />
-      <entry key="M2" value="9.24953956193096" />
-      <entry key="M5" value="18.161732698487995" />
-      <entry key="M10" value="30.37277205454592" />
-      <entry key="M15" value="40.69290508676131" />
-      <entry key="M30" value="66.43131642468259" />
-      <entry key="H1" value="110.29414371134993" />
-      <entry key="H2" value="190.41922024414825" />
-      <entry key="H4" value="341.93358444926014" />
-      <entry key="D1" value="1602.9152119473022" />
-      <entry key="W1" value="4154.147085280448" />
+      <entry key="MS100" value="2.44999297596875E-17" />
+      <entry key="MS500" value="4.76247783949044E-4" />
+      <entry key="S2" value="0.14772662858667113" />
+      <entry key="S5" value="0.4711491882018159" />
+      <entry key="S10" value="0.9026652751525168" />
+      <entry key="S30" value="4.045394451804213" />
+      <entry key="S60" value="7.9937264609520415" />
+      <entry key="M2" value="12.014765557462267" />
+      <entry key="M5" value="15.82956397696872" />
+      <entry key="M10" value="18.493526111037816" />
+      <entry key="M15" value="22.124060934260836" />
+      <entry key="M30" value="42.80955979689337" />
+      <entry key="H1" value="103.12925500446381" />
+      <entry key="H2" value="224.93201199568296" />
+      <entry key="H4" value="432.3570459547127" />
+      <entry key="D1" value="1831.9040377109343" />
+      <entry key="W1" value="4607.7130017741665" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.000000000038988" />
-      <entry key="S5" value="1.0001066318261373" />
-      <entry key="S10" value="1.0183872018405447" />
-      <entry key="S30" value="1.8445352224423708" />
-      <entry key="S60" value="4.038471035116315" />
-      <entry key="M2" value="7.974476959239048" />
-      <entry key="M5" value="16.203546987268954" />
-      <entry key="M10" value="26.541526871309166" />
-      <entry key="M15" value="35.25007024291935" />
-      <entry key="M30" value="57.30916786807551" />
-      <entry key="H1" value="94.76866223245739" />
-      <entry key="H2" value="163.13274027896273" />
-      <entry key="H4" value="287.21214118635703" />
-      <entry key="D1" value="1075.5670478169554" />
-      <entry key="W1" value="2246.7392320036306" />
+      <entry key="MS500" value="1.0000028002751085" />
+      <entry key="S2" value="1.0409073806260158" />
+      <entry key="S5" value="1.28025091063324" />
+      <entry key="S10" value="1.5704710036487337" />
+      <entry key="S30" value="2.212004609611608" />
+      <entry key="S60" value="2.7240259719210136" />
+      <entry key="M2" value="3.221268459146348" />
+      <entry key="M5" value="3.87587798299291" />
+      <entry key="M10" value="5.111240704980713" />
+      <entry key="M15" value="7.905831745188744" />
+      <entry key="M30" value="24.082097903951208" />
+      <entry key="H1" value="66.93020556042843" />
+      <entry key="H2" value="148.9565045068407" />
+      <entry key="H4" value="294.3633790978349" />
+      <entry key="D1" value="1200.057072642088" />
+      <entry key="W1" value="2533.0082802968714" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0025773405609861707" />
-      <entry key="MS500" value="0.6497455690081394" />
-      <entry key="S2" value="2.034048325952389" />
-      <entry key="S5" value="2.5671299370753804" />
-      <entry key="S10" value="2.815468486720449" />
-      <entry key="S30" value="4.694032150246458" />
-      <entry key="S60" value="9.125079133432648" />
-      <entry key="M2" value="17.159079933952146" />
-      <entry key="M5" value="34.30799924142179" />
-      <entry key="M10" value="56.8649585069731" />
-      <entry key="M15" value="75.89790586476133" />
-      <entry key="M30" value="123.70147866645006" />
-      <entry key="H1" value="205.02798710090596" />
-      <entry key="H2" value="353.51940019425206" />
-      <entry key="H4" value="629.1149009281263" />
-      <entry key="D1" value="2678.4595925063527" />
-      <entry key="W1" value="6400.878504964086" />
+      <entry key="MS100" value="0.005879870107074481" />
+      <entry key="MS500" value="0.35799629631671476" />
+      <entry key="S2" value="0.8436680927779745" />
+      <entry key="S5" value="1.4287561922897878" />
+      <entry key="S10" value="2.2134002249547886" />
+      <entry key="S30" value="6.072022209752285" />
+      <entry key="S60" value="10.5771858520746" />
+      <entry key="M2" value="15.14269777368134" />
+      <entry key="M5" value="19.65897183509321" />
+      <entry key="M10" value="23.57704811230664" />
+      <entry key="M15" value="30.005965322354637" />
+      <entry key="M30" value="66.86453331915428" />
+      <entry key="H1" value="170.0255615674855" />
+      <entry key="H2" value="373.8517201607848" />
+      <entry key="H4" value="726.6846512315889" />
+      <entry key="D1" value="3031.935686313091" />
+      <entry key="W1" value="7140.712614733389" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -139,7 +139,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JavaCode/06-advanced-oop/src/com/ranan/polomorphsm2",
+    "last_opened_file_path": "D:/JavaCode/16-thread/src/com/ranan/demo6lock",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -159,6 +159,9 @@
     "应用程序.ArrayListDemo.executor": "Run",
     "应用程序.BorderLayoutExample.executor": "Run",
     "应用程序.BoxLayoutExample.executor": "Run",
+    "应用程序.BufferedReaderDemo1.executor": "Run",
+    "应用程序.BufferedTest2.executor": "Run",
+    "应用程序.BufferedWriterDemo1.executor": "Run",
     "应用程序.CharSetDemo1.executor": "Run",
     "应用程序.CodeDemo1.executor": "Run",
     "应用程序.CodeDemo2.executor": "Run",
@@ -167,6 +170,11 @@
     "应用程序.CollectionTravelDemo3.executor": "Run",
     "应用程序.CollectionTravelDemo4.executor": "Run",
     "应用程序.CollectionsDemo2.executor": "Run",
+    "应用程序.CommonsIoDemo1.executor": "Run",
+    "应用程序.CopyDemo.executor": "Run",
+    "应用程序.CopyDemo2.executor": "Run",
+    "应用程序.DataStreamDemo2.executor": "Run",
+    "应用程序.DataStreamDemo3.executor": "Run",
     "应用程序.Demo1.executor": "Run",
     "应用程序.Demo2.executor": "Run",
     "应用程序.Demo3.executor": "Run",
@@ -181,9 +189,11 @@
     "应用程序.FileDemo1.executor": "Run",
     "应用程序.FileDemo2.executor": "Run",
     "应用程序.FileOutputStreamDemo1.executor": "Run",
+    "应用程序.FileReaderDemo1.executor": "Run",
     "应用程序.FileStreamDemo1.executor": "Run",
     "应用程序.FileStreamDemo3.executor": "Run",
     "应用程序.FileStringDemo2.executor": "Run",
+    "应用程序.FileWriterDemo1.executor": "Run",
     "应用程序.FinalDemo2.executor": "Run",
     "应用程序.FlowLayoutExample.executor": "Run",
     "应用程序.For.executor": "Run",
@@ -211,6 +221,7 @@
     "应用程序.Poker.executor": "Run",
     "应用程序.Practice.executor": "Run",
     "应用程序.PrimeNumberPrint.executor": "Run",
+    "应用程序.PrintStreamDemo1.executor": "Run",
     "应用程序.RecursionDemo1.executor": "Run",
     "应用程序.SetDemo1.executor": "Run",
     "应用程序.SetDemo2.executor": "Run",
@@ -226,6 +237,12 @@
     "应用程序.Test2.executor": "Run",
     "应用程序.Test3.executor": "Run",
     "应用程序.Test4.executor": "Run",
+    "应用程序.ThreadAPIDemo2.executor": "Run",
+    "应用程序.ThreadAPIDemo3.executor": "Run",
+    "应用程序.ThreadAPIDemo4.executor": "Run",
+    "应用程序.ThreadDemo1.executor": "Run",
+    "应用程序.ThreadDemo2.executor": "Run",
+    "应用程序.ThreadDemo3.executor": "Debug",
     "应用程序.VerificationCode.executor": "Run",
     "应用程序.While.executor": "Run",
     "应用程序.com.ranan.abstactdemo.Test.executor": "Run",
@@ -233,6 +250,9 @@
     "应用程序.com.ranan.brother_constructor.Test.executor": "Run",
     "应用程序.com.ranan.constructor.Test.executor": "Run",
     "应用程序.com.ranan.constructor.Test2.executor": "Run",
+    "应用程序.com.ranan.demo4synchronized_code.ThreadDemo1.executor": "Run",
+    "应用程序.com.ranan.demo5synchronized_method.ThreadDemo1.executor": "Run",
+    "应用程序.com.ranan.demo9bufferedinputstream.CopyDemo1.executor": "Run",
     "应用程序.com.ranan.enumdemo.Test.executor": "Run",
     "应用程序.com.ranan.extends4.Test.executor": "Run",
     "应用程序.com.ranan.extendsdemo.Test.executor": "Run",
@@ -247,23 +267,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaCode\06-advanced-oop\src\com\ranan\polomorphsm2" />
+      <recent name="D:\JavaCode\16-thread\src\com\ranan\demo6lock" />
+      <recent name="D:\JavaCode\16-thread\src\com\ranan\demo5synchronized_method" />
+      <recent name="D:\JavaCode\16-thread\src\com\ranan\demo4synchronized_code" />
+      <recent name="D:\JavaCode\15-file-io\lib" />
+      <recent name="D:\JavaCode\15-file-io\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ranran.demo2threadapi" />
+      <recent name="com.ranan.demo13printstream" />
+      <recent name="com.ranan.demo9bufferedinputstream" />
+      <recent name="com.ranan.demo6copy" />
       <recent name="com.ranan.stream" />
-      <recent name="com.ranan.map" />
-      <recent name="com.ranan.exception" />
-      <recent name="com.ranan.method1reference" />
-      <recent name="com.ranan.constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.FileOutputStreamDemo1">
-    <configuration name="CharSetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3charset.CharSetDemo1" />
-      <module name="15-file-io" />
+  <component name="RunManager" selected="应用程序.com.ranan.demo5synchronized_method.ThreadDemo1">
+    <configuration name="ThreadAPIDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranran.demo2threadapi.ThreadAPIDemo2" />
+      <module name="16-thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo3charset.*" />
+          <option name="PATTERN" value="com.ranran.demo2threadapi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4fileinputstream.FileInputStreamDemo1" />
-      <module name="15-file-io" />
+    <configuration name="ThreadAPIDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranran.demo2threadapi.ThreadAPIDemo3" />
+      <module name="16-thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo4fileinputstream.*" />
+          <option name="PATTERN" value="com.ranran.demo2threadapi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4fileinputstream.FileInputStreamDemo2" />
-      <module name="15-file-io" />
+    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3threadsafe.ThreadDemo1" />
+      <module name="16-thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo4fileinputstream.*" />
+          <option name="PATTERN" value="com.ranan.demo3threadsafe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4fileinputstream.FileInputStreamDemo3" />
-      <module name="15-file-io" />
+    <configuration name="com.ranan.demo4synchronized_code.ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4synchronized_code.ThreadDemo1" />
+      <module name="16-thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo4fileinputstream.*" />
+          <option name="PATTERN" value="com.ranan.demo4synchronized_code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOutputStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo5fileoutput.FileOutputStreamDemo1" />
-      <module name="15-file-io" />
+    <configuration name="com.ranan.demo5synchronized_method.ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo5synchronized_method.ThreadDemo1" />
+      <module name="16-thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo5fileoutput.*" />
+          <option name="PATTERN" value="com.ranan.demo5synchronized_method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.FileOutputStreamDemo1" />
-        <item itemvalue="应用程序.FileInputStreamDemo3" />
-        <item itemvalue="应用程序.FileInputStreamDemo2" />
-        <item itemvalue="应用程序.FileInputStreamDemo1" />
-        <item itemvalue="应用程序.CharSetDemo1" />
+        <item itemvalue="应用程序.com.ranan.demo5synchronized_method.ThreadDemo1" />
+        <item itemvalue="应用程序.com.ranan.demo4synchronized_code.ThreadDemo1" />
+        <item itemvalue="应用程序.ThreadDemo1" />
+        <item itemvalue="应用程序.ThreadAPIDemo3" />
+        <item itemvalue="应用程序.ThreadAPIDemo2" />
       </list>
     </recent_temporary>
   </component>
