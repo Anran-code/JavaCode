@@ -7,10 +7,8 @@
     <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-file-io/15-file-io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/15-file-io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-file-io/src/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/15-file-io/src/test1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/15文件与IO流.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/15文件与IO流.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/15-file-io/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15-file-io/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-thread/src/com/ranan/demo2threadapi/ThreadAPIDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/16-thread/src/com/ranan/demo2threadapi/ThreadAPIDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/16线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/16线程.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,61 +40,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.44999297596875E-17" />
-      <entry key="MS500" value="4.76247783949044E-4" />
-      <entry key="S2" value="0.14772662858667113" />
-      <entry key="S5" value="0.4711491882018159" />
-      <entry key="S10" value="0.9026652751525168" />
-      <entry key="S30" value="4.045394451804213" />
-      <entry key="S60" value="7.9937264609520415" />
-      <entry key="M2" value="12.014765557462267" />
-      <entry key="M5" value="15.82956397696872" />
-      <entry key="M10" value="18.493526111037816" />
-      <entry key="M15" value="22.124060934260836" />
-      <entry key="M30" value="42.80955979689337" />
-      <entry key="H1" value="103.12925500446381" />
-      <entry key="H2" value="224.93201199568296" />
-      <entry key="H4" value="432.3570459547127" />
-      <entry key="D1" value="1831.9040377109343" />
-      <entry key="W1" value="4607.7130017741665" />
+      <entry key="MS100" value="6.614108535556023E-8" />
+      <entry key="MS500" value="0.04226803174492964" />
+      <entry key="S2" value="0.7113071150709985" />
+      <entry key="S5" value="1.3140639721476066" />
+      <entry key="S10" value="1.6201050222977074" />
+      <entry key="S30" value="2.176566139934204" />
+      <entry key="S60" value="3.8211454508532534" />
+      <entry key="M2" value="6.851078005788074" />
+      <entry key="M5" value="11.74974290632227" />
+      <entry key="M10" value="18.348705198829304" />
+      <entry key="M15" value="24.31501404871721" />
+      <entry key="M30" value="41.062785032667996" />
+      <entry key="H1" value="77.18922438365618" />
+      <entry key="H2" value="161.76149263283264" />
+      <entry key="H4" value="350.0680189031513" />
+      <entry key="D1" value="1810.3539629930249" />
+      <entry key="W1" value="4742.578390288499" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000028002751085" />
-      <entry key="S2" value="1.0409073806260158" />
-      <entry key="S5" value="1.28025091063324" />
-      <entry key="S10" value="1.5704710036487337" />
-      <entry key="S30" value="2.212004609611608" />
-      <entry key="S60" value="2.7240259719210136" />
-      <entry key="M2" value="3.221268459146348" />
-      <entry key="M5" value="3.87587798299291" />
-      <entry key="M10" value="5.111240704980713" />
-      <entry key="M15" value="7.905831745188744" />
-      <entry key="M30" value="24.082097903951208" />
-      <entry key="H1" value="66.93020556042843" />
-      <entry key="H2" value="148.9565045068407" />
-      <entry key="H4" value="294.3633790978349" />
-      <entry key="D1" value="1200.057072642088" />
-      <entry key="W1" value="2533.0082802968714" />
+      <entry key="MS100" value="1.0000000000008606" />
+      <entry key="MS500" value="1.0045711494941045" />
+      <entry key="S2" value="1.4124271812991371" />
+      <entry key="S5" value="2.0578878341367375" />
+      <entry key="S10" value="2.454492906405007" />
+      <entry key="S30" value="3.1789002426005557" />
+      <entry key="S60" value="4.984922405434512" />
+      <entry key="M2" value="8.340685425528749" />
+      <entry key="M5" value="14.109115479159575" />
+      <entry key="M10" value="24.021943553853994" />
+      <entry key="M15" value="34.30576074068951" />
+      <entry key="M30" value="62.0062075793092" />
+      <entry key="H1" value="108.58111471814837" />
+      <entry key="H2" value="188.05496695264887" />
+      <entry key="H4" value="334.66709187569586" />
+      <entry key="D1" value="1307.7624760732388" />
+      <entry key="W1" value="2756.9475120705533" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.005879870107074481" />
-      <entry key="MS500" value="0.35799629631671476" />
-      <entry key="S2" value="0.8436680927779745" />
-      <entry key="S5" value="1.4287561922897878" />
-      <entry key="S10" value="2.2134002249547886" />
-      <entry key="S30" value="6.072022209752285" />
-      <entry key="S60" value="10.5771858520746" />
-      <entry key="M2" value="15.14269777368134" />
-      <entry key="M5" value="19.65897183509321" />
-      <entry key="M10" value="23.57704811230664" />
-      <entry key="M15" value="30.005965322354637" />
-      <entry key="M30" value="66.86453331915428" />
-      <entry key="H1" value="170.0255615674855" />
-      <entry key="H2" value="373.8517201607848" />
-      <entry key="H4" value="726.6846512315889" />
-      <entry key="D1" value="3031.935686313091" />
-      <entry key="W1" value="7140.712614733389" />
+      <entry key="MS100" value="0.0058798971558629365" />
+      <entry key="MS500" value="0.39534311672664085" />
+      <entry key="S2" value="1.7535481270240034" />
+      <entry key="S5" value="3.1112731231731128" />
+      <entry key="S10" value="3.90728970276364" />
+      <entry key="S30" value="5.275508432016342" />
+      <entry key="S60" value="8.731287732548129" />
+      <entry key="M2" value="15.120053664382013" />
+      <entry key="M5" value="25.803493664016756" />
+      <entry key="M10" value="42.3180656999617" />
+      <entry key="M15" value="58.568999019576864" />
+      <entry key="M30" value="103.0204465431502" />
+      <entry key="H1" value="185.7256685188345" />
+      <entry key="H2" value="349.7753779404545" />
+      <entry key="H4" value="684.6968673180982" />
+      <entry key="D1" value="3118.08935622025" />
+      <entry key="W1" value="7499.516665834435" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -139,7 +137,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JavaCode/16-thread/src/com/ranan/demo6lock",
+    "last_opened_file_path": "D:/JavaCode/17-net/src/com/ranan/demo3udp2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -185,6 +183,9 @@
     "应用程序.ExceptionDemo3.executor": "Run",
     "应用程序.ExceptionDemo4.executor": "Run",
     "应用程序.ExceptionDemo5.executor": "Run",
+    "应用程序.ExecutorServiceDemo1.executor": "Run",
+    "应用程序.ExecutorServiceDemo2.executor": "Run",
+    "应用程序.ExecutorsDemo3.executor": "Run",
     "应用程序.Father.executor": "Run",
     "应用程序.FileDemo1.executor": "Run",
     "应用程序.FileDemo2.executor": "Run",
@@ -205,6 +206,7 @@
     "应用程序.GuessNumber.executor": "Run",
     "应用程序.HuaRongRoadDemo.executor": "Run",
     "应用程序.IfBranch.executor": "Run",
+    "应用程序.InetAddressDemo1.executor": "Run",
     "应用程序.InnerClassDemo1.executor": "Run",
     "应用程序.JFrameDemo1.executor": "Run",
     "应用程序.LambdaDemo1.executor": "Run",
@@ -243,6 +245,9 @@
     "应用程序.ThreadDemo1.executor": "Run",
     "应用程序.ThreadDemo2.executor": "Run",
     "应用程序.ThreadDemo3.executor": "Debug",
+    "应用程序.ThreadTest.executor": "Run",
+    "应用程序.UDPClientDemo1.executor": "Run",
+    "应用程序.UDPServiceDemo2.executor": "Run",
     "应用程序.VerificationCode.executor": "Run",
     "应用程序.While.executor": "Run",
     "应用程序.com.ranan.abstactdemo.Test.executor": "Run",
@@ -250,6 +255,8 @@
     "应用程序.com.ranan.brother_constructor.Test.executor": "Run",
     "应用程序.com.ranan.constructor.Test.executor": "Run",
     "应用程序.com.ranan.constructor.Test2.executor": "Run",
+    "应用程序.com.ranan.demo3udp2.UDPClientDemo1.executor": "Run",
+    "应用程序.com.ranan.demo3udp2.UDPServiceDemo2.executor": "Run",
     "应用程序.com.ranan.demo4synchronized_code.ThreadDemo1.executor": "Run",
     "应用程序.com.ranan.demo5synchronized_method.ThreadDemo1.executor": "Run",
     "应用程序.com.ranan.demo9bufferedinputstream.CopyDemo1.executor": "Run",
@@ -267,27 +274,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaCode\17-net\src\com\ranan\demo3udp2" />
       <recent name="D:\JavaCode\16-thread\src\com\ranan\demo6lock" />
       <recent name="D:\JavaCode\16-thread\src\com\ranan\demo5synchronized_method" />
       <recent name="D:\JavaCode\16-thread\src\com\ranan\demo4synchronized_code" />
       <recent name="D:\JavaCode\15-file-io\lib" />
-      <recent name="D:\JavaCode\15-file-io\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ranan.demo8test" />
+      <recent name="com.ranan.demo7executorService" />
       <recent name="com.ranran.demo2threadapi" />
       <recent name="com.ranan.demo13printstream" />
       <recent name="com.ranan.demo9bufferedinputstream" />
-      <recent name="com.ranan.demo6copy" />
-      <recent name="com.ranan.stream" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.com.ranan.demo5synchronized_method.ThreadDemo1">
-    <configuration name="ThreadAPIDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranran.demo2threadapi.ThreadAPIDemo2" />
-      <module name="16-thread" />
+  <component name="RunManager" selected="应用程序.com.ranan.demo3udp2.UDPClientDemo1">
+    <configuration name="InetAddressDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo1inetaddress.InetAddressDemo1" />
+      <module name="17-net" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranran.demo2threadapi.*" />
+          <option name="PATTERN" value="com.ranan.demo1inetaddress.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadAPIDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranran.demo2threadapi.ThreadAPIDemo3" />
-      <module name="16-thread" />
+    <configuration name="UDPClientDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2udp1.UDPClientDemo1" />
+      <module name="17-net" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranran.demo2threadapi.*" />
+          <option name="PATTERN" value="com.ranan.demo2udp1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3threadsafe.ThreadDemo1" />
-      <module name="16-thread" />
+    <configuration name="UDPServiceDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2udp1.UDPServiceDemo2" />
+      <module name="17-net" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo3threadsafe.*" />
+          <option name="PATTERN" value="com.ranan.demo2udp1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.demo4synchronized_code.ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo4synchronized_code.ThreadDemo1" />
-      <module name="16-thread" />
+    <configuration name="com.ranan.demo3udp2.UDPClientDemo1" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3udp2.UDPClientDemo1" />
+      <module name="17-net" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo4synchronized_code.*" />
+          <option name="PATTERN" value="com.ranan.demo3udp2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.demo5synchronized_method.ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo5synchronized_method.ThreadDemo1" />
-      <module name="16-thread" />
+    <configuration name="com.ranan.demo3udp2.UDPServiceDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3udp2.UDPServiceDemo2" />
+      <module name="17-net" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo5synchronized_method.*" />
+          <option name="PATTERN" value="com.ranan.demo3udp2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,13 +354,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="应用程序.com.ranan.demo3udp2.UDPClientDemo1" />
+      <item itemvalue="应用程序.com.ranan.demo3udp2.UDPServiceDemo2" />
+      <item itemvalue="应用程序.InetAddressDemo1" />
+      <item itemvalue="应用程序.UDPClientDemo1" />
+      <item itemvalue="应用程序.UDPServiceDemo2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.com.ranan.demo5synchronized_method.ThreadDemo1" />
-        <item itemvalue="应用程序.com.ranan.demo4synchronized_code.ThreadDemo1" />
-        <item itemvalue="应用程序.ThreadDemo1" />
-        <item itemvalue="应用程序.ThreadAPIDemo3" />
-        <item itemvalue="应用程序.ThreadAPIDemo2" />
+        <item itemvalue="应用程序.com.ranan.demo3udp2.UDPClientDemo1" />
+        <item itemvalue="应用程序.com.ranan.demo3udp2.UDPServiceDemo2" />
+        <item itemvalue="应用程序.UDPClientDemo1" />
+        <item itemvalue="应用程序.UDPServiceDemo2" />
+        <item itemvalue="应用程序.InetAddressDemo1" />
       </list>
     </recent_temporary>
   </component>
