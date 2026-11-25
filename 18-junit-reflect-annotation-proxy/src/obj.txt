@@ -1,0 +1,18 @@
+Dog
+name=dog(class java.lang.String)
+age=2(int)
+hobby=null(class java.lang.String)
+===========================================================
+Student
+name=LiHua(class java.lang.String)
+age=23(int)
+===========================================================
+Teacher
+name=ZhangHua(class java.lang.String)
+age=18(int)
+hobby=java(class java.lang.String)
+salary=5000.0(double)
+className=703(class java.lang.String)
+sex=m(char)
+phone=1234556777(class java.lang.String)
+===========================================================

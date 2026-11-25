@@ -7,8 +7,7 @@
     <list default="true" id="2335d394-143e-465e-a739-b7dfa894c85a" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-thread/src/com/ranan/demo2threadapi/ThreadAPIDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/16-thread/src/com/ranan/demo2threadapi/ThreadAPIDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/16线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/16线程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/17网络通信.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/17网络通信.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -28,11 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/03-flow-control/src/com/ranan/branch/IfBranch.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/03-flow-control/src/com/ranan/loop/For.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/03-flow-control/src/com/ranan/loop/NestedLoop.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/03-flow-control/src/com/ranan/practice/SimpleCalculator.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/notes/基础.md" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/anran-network-server-sys/src/com/ranan/ServerReaderThread.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -40,61 +35,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="6.614108535556023E-8" />
-      <entry key="MS500" value="0.04226803174492964" />
-      <entry key="S2" value="0.7113071150709985" />
-      <entry key="S5" value="1.3140639721476066" />
-      <entry key="S10" value="1.6201050222977074" />
-      <entry key="S30" value="2.176566139934204" />
-      <entry key="S60" value="3.8211454508532534" />
-      <entry key="M2" value="6.851078005788074" />
-      <entry key="M5" value="11.74974290632227" />
-      <entry key="M10" value="18.348705198829304" />
-      <entry key="M15" value="24.31501404871721" />
-      <entry key="M30" value="41.062785032667996" />
-      <entry key="H1" value="77.18922438365618" />
-      <entry key="H2" value="161.76149263283264" />
-      <entry key="H4" value="350.0680189031513" />
-      <entry key="D1" value="1810.3539629930249" />
-      <entry key="W1" value="4742.578390288499" />
+      <entry key="MS100" value="0.008901453243196451" />
+      <entry key="MS500" value="0.6794549402188199" />
+      <entry key="S2" value="1.7700887034713482" />
+      <entry key="S5" value="2.369970192311647" />
+      <entry key="S10" value="2.7342262312911996" />
+      <entry key="S30" value="4.168610534262189" />
+      <entry key="S60" value="6.56514281383755" />
+      <entry key="M2" value="9.774360597645446" />
+      <entry key="M5" value="15.792373440613417" />
+      <entry key="M10" value="25.33161567447713" />
+      <entry key="M15" value="35.769177956024855" />
+      <entry key="M30" value="68.24950651484518" />
+      <entry key="H1" value="125.57806399750525" />
+      <entry key="H2" value="222.27843757024712" />
+      <entry key="H4" value="401.3400231355441" />
+      <entry key="D1" value="1949.465561652412" />
+      <entry key="W1" value="5433.7682847697215" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000000008606" />
-      <entry key="MS500" value="1.0045711494941045" />
-      <entry key="S2" value="1.4124271812991371" />
-      <entry key="S5" value="2.0578878341367375" />
-      <entry key="S10" value="2.454492906405007" />
-      <entry key="S30" value="3.1789002426005557" />
-      <entry key="S60" value="4.984922405434512" />
-      <entry key="M2" value="8.340685425528749" />
-      <entry key="M5" value="14.109115479159575" />
-      <entry key="M10" value="24.021943553853994" />
-      <entry key="M15" value="34.30576074068951" />
-      <entry key="M30" value="62.0062075793092" />
-      <entry key="H1" value="108.58111471814837" />
-      <entry key="H2" value="188.05496695264887" />
-      <entry key="H4" value="334.66709187569586" />
-      <entry key="D1" value="1307.7624760732388" />
-      <entry key="W1" value="2756.9475120705533" />
+      <entry key="MS100" value="1.0000000000000022" />
+      <entry key="MS500" value="1.0016038463577914" />
+      <entry key="S2" value="1.3345411327610286" />
+      <entry key="S5" value="2.0999711280233386" />
+      <entry key="S10" value="2.867744088583055" />
+      <entry key="S30" value="4.671668023679649" />
+      <entry key="S60" value="6.52297477286066" />
+      <entry key="M2" value="9.239978042064338" />
+      <entry key="M5" value="16.70674511395184" />
+      <entry key="M10" value="27.406517234471462" />
+      <entry key="M15" value="37.14382294220667" />
+      <entry key="M30" value="66.98532891013265" />
+      <entry key="H1" value="118.16729906899712" />
+      <entry key="H2" value="184.5097236012446" />
+      <entry key="H4" value="287.3719215833961" />
+      <entry key="D1" value="1311.3881702179178" />
+      <entry key="W1" value="3177.879292500739" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0058798971558629365" />
-      <entry key="MS500" value="0.39534311672664085" />
-      <entry key="S2" value="1.7535481270240034" />
-      <entry key="S5" value="3.1112731231731128" />
-      <entry key="S10" value="3.90728970276364" />
-      <entry key="S30" value="5.275508432016342" />
-      <entry key="S60" value="8.731287732548129" />
-      <entry key="M2" value="15.120053664382013" />
-      <entry key="M5" value="25.803493664016756" />
-      <entry key="M10" value="42.3180656999617" />
-      <entry key="M15" value="58.568999019576864" />
-      <entry key="M30" value="103.0204465431502" />
-      <entry key="H1" value="185.7256685188345" />
-      <entry key="H2" value="349.7753779404545" />
-      <entry key="H4" value="684.6968673180982" />
-      <entry key="D1" value="3118.08935622025" />
-      <entry key="W1" value="7499.516665834435" />
+      <entry key="MS100" value="0.02430783081276941" />
+      <entry key="MS500" value="1.0505714380220095" />
+      <entry key="S2" value="2.764675440385514" />
+      <entry key="S5" value="4.2252273800119236" />
+      <entry key="S10" value="5.411909956722252" />
+      <entry key="S30" value="8.701696938962527" />
+      <entry key="S60" value="12.976754746926353" />
+      <entry key="M2" value="18.920724270971476" />
+      <entry key="M5" value="32.416100418536814" />
+      <entry key="M10" value="52.66511312019879" />
+      <entry key="M15" value="72.84550188271754" />
+      <entry key="M30" value="135.17313768830016" />
+      <entry key="H1" value="243.69082992094823" />
+      <entry key="H2" value="406.7450725652939" />
+      <entry key="H4" value="688.6777357863072" />
+      <entry key="D1" value="3260.8267603453337" />
+      <entry key="W1" value="8611.637197279588" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -122,6 +117,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.ReflectDemo2.getClassInfo.executor": "Run",
+    "JUnit.ReflectDemo2.getConstructorInfo.executor": "Run",
+    "JUnit.ReflectDemo2.getFieldInfo.executor": "Run",
+    "JUnit.ReflectDemo2.getMethodInfo.executor": "Run",
+    "JUnit.StringUtilTest.executor": "Run",
+    "JUnit.StringUtilTest.testGetMaxIndex.executor": "Run",
+    "JUnit.StringUtilTest.testPrintNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -137,7 +139,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JavaCode/17-net/src/com/ranan/demo3udp2",
+    "last_opened_file_path": "D:/JavaCode/17-net/src/com/ranan/demo7tcp4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -161,6 +163,9 @@
     "应用程序.BufferedTest2.executor": "Run",
     "应用程序.BufferedWriterDemo1.executor": "Run",
     "应用程序.CharSetDemo1.executor": "Run",
+    "应用程序.ChatEntryForm.executor": "Run",
+    "应用程序.ChatEntryFrame.executor": "Run",
+    "应用程序.ClientChatFrame.executor": "Run",
     "应用程序.CodeDemo1.executor": "Run",
     "应用程序.CodeDemo2.executor": "Run",
     "应用程序.CollectionDemo1.executor": "Run",
@@ -225,6 +230,10 @@
     "应用程序.PrimeNumberPrint.executor": "Run",
     "应用程序.PrintStreamDemo1.executor": "Run",
     "应用程序.RecursionDemo1.executor": "Run",
+    "应用程序.ReflectDemo1.executor": "Run",
+    "应用程序.ReflectDemo3.executor": "Run",
+    "应用程序.ReflectDemo4.executor": "Run",
+    "应用程序.Server.executor": "Run",
     "应用程序.SetDemo1.executor": "Run",
     "应用程序.SetDemo2.executor": "Run",
     "应用程序.SetDemo3.executor": "Run",
@@ -235,7 +244,10 @@
     "应用程序.StreamDemo4.executor": "Run",
     "应用程序.StringDemo1.executor": "Run",
     "应用程序.SwitchBranch.executor": "Run",
+    "应用程序.TCPClientDemo1.executor": "Run",
+    "应用程序.TCPServiceDemo2.executor": "Run",
     "应用程序.Test.executor": "Run",
+    "应用程序.Test1.executor": "Run",
     "应用程序.Test2.executor": "Run",
     "应用程序.Test3.executor": "Run",
     "应用程序.Test4.executor": "Run",
@@ -259,6 +271,10 @@
     "应用程序.com.ranan.demo3udp2.UDPServiceDemo2.executor": "Run",
     "应用程序.com.ranan.demo4synchronized_code.ThreadDemo1.executor": "Run",
     "应用程序.com.ranan.demo5synchronized_method.ThreadDemo1.executor": "Run",
+    "应用程序.com.ranan.demo5tcp2.TCPClientDemo1.executor": "Run",
+    "应用程序.com.ranan.demo5tcp2.TCPServiceDemo2.executor": "Run",
+    "应用程序.com.ranan.demo6tcp3.TCPClientDemo1.executor": "Run",
+    "应用程序.com.ranan.demo6tcp3.TCPServiceDemo2.executor": "Run",
     "应用程序.com.ranan.demo9bufferedinputstream.CopyDemo1.executor": "Run",
     "应用程序.com.ranan.enumdemo.Test.executor": "Run",
     "应用程序.com.ranan.extends4.Test.executor": "Run",
@@ -274,27 +290,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaCode\17-net\src\com\ranan\demo7tcp4" />
+      <recent name="D:\JavaCode\17-net\src\com\ranan\demo6tcp3" />
+      <recent name="D:\JavaCode\17-net\src\com\ranan\demo5tcp2" />
       <recent name="D:\JavaCode\17-net\src\com\ranan\demo3udp2" />
       <recent name="D:\JavaCode\16-thread\src\com\ranan\demo6lock" />
-      <recent name="D:\JavaCode\16-thread\src\com\ranan\demo5synchronized_method" />
-      <recent name="D:\JavaCode\16-thread\src\com\ranan\demo4synchronized_code" />
-      <recent name="D:\JavaCode\15-file-io\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ranan" />
+      <recent name="com.ranan.demo7tcp4" />
       <recent name="com.ranan.demo8test" />
       <recent name="com.ranan.demo7executorService" />
       <recent name="com.ranran.demo2threadapi" />
-      <recent name="com.ranan.demo13printstream" />
-      <recent name="com.ranan.demo9bufferedinputstream" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.com.ranan.demo3udp2.UDPClientDemo1">
-    <configuration name="InetAddressDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo1inetaddress.InetAddressDemo1" />
-      <module name="17-net" />
+  <component name="RunManager" selected="应用程序.ReflectDemo4">
+    <configuration name="ReflectDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2reflect.ReflectDemo3" />
+      <module name="18-junit-reflect-annotation-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo1inetaddress.*" />
+          <option name="PATTERN" value="com.ranan.demo2reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UDPClientDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2udp1.UDPClientDemo1" />
-      <module name="17-net" />
+    <configuration name="ReflectDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2reflect.ReflectDemo4" />
+      <module name="18-junit-reflect-annotation-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo2udp1.*" />
+          <option name="PATTERN" value="com.ranan.demo2reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,59 +331,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UDPServiceDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2udp1.UDPServiceDemo2" />
-      <module name="17-net" />
+    <configuration name="ReflectDemo2.getConstructorInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="18-junit-reflect-annotation-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo2udp1.*" />
+          <option name="PATTERN" value="com.ranan.demo2reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.ranan.demo2reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2reflect.ReflectDemo2" />
+      <option name="METHOD_NAME" value="getConstructorInfo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.demo3udp2.UDPClientDemo1" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3udp2.UDPClientDemo1" />
-      <module name="17-net" />
+    <configuration name="ReflectDemo2.getFieldInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="18-junit-reflect-annotation-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo3udp2.*" />
+          <option name="PATTERN" value="com.ranan.demo2reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.ranan.demo2reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2reflect.ReflectDemo2" />
+      <option name="METHOD_NAME" value="getFieldInfo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ranan.demo3udp2.UDPServiceDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ranan.demo3udp2.UDPServiceDemo2" />
-      <module name="17-net" />
+    <configuration name="ReflectDemo2.getMethodInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="18-junit-reflect-annotation-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ranan.demo3udp2.*" />
+          <option name="PATTERN" value="com.ranan.demo2reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.ranan.demo2reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.ranan.demo2reflect.ReflectDemo2" />
+      <option name="METHOD_NAME" value="getMethodInfo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.com.ranan.demo3udp2.UDPClientDemo1" />
-      <item itemvalue="应用程序.com.ranan.demo3udp2.UDPServiceDemo2" />
-      <item itemvalue="应用程序.InetAddressDemo1" />
-      <item itemvalue="应用程序.UDPClientDemo1" />
-      <item itemvalue="应用程序.UDPServiceDemo2" />
+      <item itemvalue="JUnit.ReflectDemo2.getConstructorInfo" />
+      <item itemvalue="JUnit.ReflectDemo2.getFieldInfo" />
+      <item itemvalue="JUnit.ReflectDemo2.getMethodInfo" />
+      <item itemvalue="应用程序.ReflectDemo3" />
+      <item itemvalue="应用程序.ReflectDemo4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.com.ranan.demo3udp2.UDPClientDemo1" />
-        <item itemvalue="应用程序.com.ranan.demo3udp2.UDPServiceDemo2" />
-        <item itemvalue="应用程序.UDPClientDemo1" />
-        <item itemvalue="应用程序.UDPServiceDemo2" />
-        <item itemvalue="应用程序.InetAddressDemo1" />
+        <item itemvalue="应用程序.ReflectDemo4" />
+        <item itemvalue="应用程序.ReflectDemo3" />
+        <item itemvalue="JUnit.ReflectDemo2.getMethodInfo" />
+        <item itemvalue="JUnit.ReflectDemo2.getFieldInfo" />
+        <item itemvalue="JUnit.ReflectDemo2.getConstructorInfo" />
       </list>
     </recent_temporary>
   </component>
